@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "name": "Leanne Graham",
+        "username": "bret",
+        "email": "ac@gmail.com",
+        "address": [
+            {
+                "street": "123 Main St",
+                "house": "Apt 4B",
+                "city": "Cityville",
+                "zip": "12345",
+                "country": "United States"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "John Doe",
+        "username": "johndoe",
+        "email": "john.doe@example.com",
+        "address": [
+            {
+                "street": "456 Oak Avenue",
+                "house": "Suite 7",
+                "city": "Townsville",
+                "zip": "67890",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Jane Smith",
+        "username": "janesmith",
+        "email": "jane.smith@example.com",
+        "address": [
+            {
+                "street": "789 Pine Lane",
+                "house": "Unit 12",
+                "city": "Villageton",
+                "zip": "54321",
+                "country": "Australia"
+            }
+        ]
+    }
+]
