@@ -1,0 +1,22 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asma-mughal/hoemPract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asma-mughal/hoemPract/issues"
+  },
+  "homepage": "https://github.com/asma-mughal/hoemPract#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
