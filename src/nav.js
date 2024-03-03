@@ -1,6 +1,11 @@
 const express = require('express')
+const path = require('path')
 const app = express()
 const PORT = 3000
+//b
+const staticpath = path.join(__dirname, "../public")
+
+app.use(express.static(staticpath))
 app.get("/", (req, res)=>{
     res.write("<h1>This is my work</h1>")
     //res.send("<h1>this is homePage</h1>")
